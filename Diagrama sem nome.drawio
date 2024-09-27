@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="1042" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="70" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FWTdbX8XUFZsyjJT9uoj-5" value="Branch_SPRINT2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="220" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FWTdbX8XUFZsyjJT9uoj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FWTdbX8XUFZsyjJT9uoj-6" target="FWTdbX8XUFZsyjJT9uoj-4">
           <mxGeometry relative="1" as="geometry" />
@@ -74,6 +74,18 @@
         </mxCell>
         <mxCell id="FWTdbX8XUFZsyjJT9uoj-21" value="Work Copy local" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="FWTdbX8XUFZsyjJT9uoj-20">
           <mxGeometry x="40" y="25" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FWTdbX8XUFZsyjJT9uoj-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Estrutura / Fluxo&lt;/h1&gt;&lt;p&gt;A imagem representa a atual estrutura do repositório no SVN e o fluxo de trabalho a cada Sprint.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="540" y="10" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FWTdbX8XUFZsyjJT9uoj-32" value="Sprint Fechada" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="10" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FWTdbX8XUFZsyjJT9uoj-33" value="Sprint Aberta" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="150" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FWTdbX8XUFZsyjJT9uoj-34" value="Legenda" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="10" y="580" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
